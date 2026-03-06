@@ -1,0 +1,19 @@
+{
+  "products": {
+    "_id": "prod3001",
+    "name": "iPhone 16 Pro",
+    "brand": "Apple",
+    "price": 1199,
+    "category": "Electronics",
+    "in_stock": true
+  },
+  "enrichment": {
+    "_id": "648f5a123b",
+    "product_id": "prod3001",
+    "specifications": {
+      "color": "Graphite",
+      "storage": "128GB"
+    },
+    "ratings": 4.8
+  }
+}
