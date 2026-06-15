@@ -2,6 +2,20 @@
 
 Bem-vindo ao módulo de Operações CRUD programáticas! Até agora, você realizou buscas e inserções interagindo diretamente com o `mongosh` (MongoDB Shell). Nesta unidade, damos um passo adiante e passamos a controlar o banco de dados diretamente de dentro de uma aplicação Node.js.
 
+## 📋 Sumário
+* [🚀 Como o Node.js interage com o MongoDB?](#-como-o-nodejs-interage-com-o-mongodb)
+* [Inserindo Documentos em Aplicações Node.js](#inserindo-documentos-em-aplicações-nodejs)
+  * 🧪 [Lab: Inserting Documents](./insert-lab/readme.md)
+* [Consultando uma Coleção MongoDB em Aplicações Node.js (Find/Read)](#consultando-uma-coleção-mongodb-em-aplicações-nodejs-findread)
+  * 🧪 [Lab: Querying Documents](./find-lab/readme.md)
+* [Atualizando Documentos em Aplicações Node.js (Update)](#atualizando-documentos-em-aplicações-nodejs-update)
+  * 🧪 [Lab: Updating Documents](./update-lab/readme.md)
+* [Deletando Documentos em Aplicações Node.js (Delete)](#deletando-documentos-em-aplicações-nodejs-delete)
+  * 🧪 [Lab: Deleting Documents](./delete-lab/readme.md)
+* [Criando Transações MongoDB em Aplicações Node.js (Transactions)](#criando-transações-mongodb-em-aplicações-nodejs-transactions)
+  * 🧪 [Lab Especial: Transactions](./transaction-lab/readme.md)
+* [🧠 Quizzes: Working with MongoDB Documents in Node.js](#-quizzes-working-with-mongodb-documents-in-nodejs)
+
 ## 🚀 Como o Node.js interage com o MongoDB?
 
 Antes de começarmos a inserir ou buscar documentos, é importante entender os três pilares do desenvolvimento Node.js com o MongoDB:

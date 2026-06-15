@@ -42,6 +42,10 @@ Operações fundamentais de manipulação e resgate de dados em coleções (Crea
 #### 📘 [5. MongoDB CRUD Operations in Node.js](./nodejs-developer-path/05-crud-nodejs/readme.md)
 Integração de operações CRUD programáticas usando o MongoDB Node.js Driver.
 * 🧪 [Lab: Inserting Documents in Node.js](./nodejs-developer-path/05-crud-nodejs/insert-lab/readme.md)
+* 🧪 [Lab: Querying Documents in Node.js](./nodejs-developer-path/05-crud-nodejs/find-lab/readme.md)
+* 🧪 [Lab: Updating Documents in Node.js](./nodejs-developer-path/05-crud-nodejs/update-lab/readme.md)
+* 🧪 [Lab: Deleting Documents in Node.js](./nodejs-developer-path/05-crud-nodejs/delete-lab/readme.md)
+* 🧪 [Lab Especial: MongoDB Transactions in Node.js](./nodejs-developer-path/05-crud-nodejs/transaction-lab/readme.md)
 
 ---
 
