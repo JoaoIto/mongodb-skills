@@ -2,6 +2,36 @@
 
 Este repositório é dedicado aos exercícios práticos e notas de estudo para a trilha **MongoDB Node.js Developer Path** e outras certificações/badges oficiais da MongoDB. Este material não contém apenas um curso, mas atua como um guia rápido, pragmático e como ferramenta de reflexão para toda a jornada de aprendizagem técnica.
 
+---
+
+## 🏆 Minhas Conquistas (Badges & Certificações)
+
+Abaixo estão as credenciais e trilhas que conquistei/concluí através da plataforma oficial MongoDB:
+
+<div style="display: flex; gap: 20px; flex-wrap: wrap; margin-bottom: 20px;">
+  <!-- Badge: MongoDB Overview -->
+  <a href="#" target="_blank">
+    <img src="https://images.credly.com/size/340x340/images/0b4c54ef-b1d8-4aa7-a658-230b74dec7f6/blob" width="160" alt="MongoDB Overview Badge" />
+  </a>
+  <!-- Badge: Relational to Document Model -->
+  <a href="#" target="_blank">
+    <img src="https://images.credly.com/size/340x340/images/234edfc5-0177-46e7-a61a-071f060af2f6/blob" width="160" alt="Relational to Document Model Badge" />
+  </a>
+</div>
+
+**🎯 Grande Objetivo de Estudo:**
+<br/>
+<img src="https://d36ai2hkxl16us.cloudfront.net/course-uploads/7985c085-3b6a-42d5-b668-e41cb6eedeb0/4gnbpsehb9ih-credlybadge-associatedeveloper2.png" width="160" alt="MongoDB Associate Developer Badge" />
+<br/><br/>
+
+**🎓 Learning Path Finalizado:**
+<br/>
+<a href="https://learn.mongodb.com/learn/learning-path/mongodb-nodejs-developer-path" target="_blank">
+  <img src="https://d36ai2hkxl16us.cloudfront.net/thoughtindustries/image/upload/a_exif,c_fill,w_750,h_361/v1/course-uploads/ae62dcd7-abdc-4e90-a570-83eccba49043/61tq2sbjaux6-Node_LP_Catalog1.png" width="300" alt="MongoDB Node.js Developer Path" />
+</a>
+
+---
+
 Abaixo está o **Sumário Principal** estruturado de forma hierárquica, separando a trilha principal de Node.js dos badges e módulos adicionais.
 
 ---
