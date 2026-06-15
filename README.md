@@ -59,7 +59,10 @@ Integração e execução prática de Aggregation Pipelines em aplicações Node
 ---
 
 ### 🎖️ MongoDB Badges & Extras
-Módulos independentes e laboratórios que conferem badges específicos.
+Módulos independentes, guias e laboratórios que conferem badges específicos.
+
+* 📜 **[Guia Oficial de Certificação MongoDB (Associate Developer)](./nodejs-developer-path/docs/readme.md)**
+  * Detalhes sobre os pré-requisitos, pesos de cada tema na prova (CRUD, Indexes, Node.js Driver), regras de realização do exame e o que esperar no dia da prova!
 
 #### 📘 [MongoDB Overview](./badges/overview/README.md)
 Princípios fundamentais de bases de dados Orientadas a Documentos, Clusters e Replica Sets.
