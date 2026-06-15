@@ -50,6 +50,12 @@ Integração de operações CRUD programáticas usando o MongoDB Node.js Driver.
 #### 📘 [6. MongoDB Indexes](./nodejs-developer-path/06-indexes/readme.md)
 Estruturas de dados para aprimoramento de consultas (Single Field, Unique e métricas de query via Explain).
 
+#### 📘 [7. MongoDB Aggregation](./nodejs-developer-path/07-aggregation/readme.md)
+Framework poderoso de processamento em lote e sumarização de dados usando pipelines de agregação ($match, $group).
+
+#### 📘 [8. MongoDB Aggregation with Node.js](./nodejs-developer-path/08-aggregation-nodejs/readme.md)
+Integração e execução prática de Aggregation Pipelines em aplicações Node.js utilizando o driver nativo do MongoDB.
+
 ---
 
 ### 🎖️ MongoDB Badges & Extras
