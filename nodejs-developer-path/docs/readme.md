@@ -20,6 +20,8 @@ A certificação **MongoDB Associate Developer** comprova que você domina as ha
 
 A prova possui **53 questões** (algumas de múltipla escolha simples, outras com múltiplas respostas corretas). Destas, algumas perguntas servem apenas como "testes de campo" não pontuados para futuras provas, porém você não saberá quais são elas. A prova é baseada no uso prático do dia a dia, distribuída com os seguintes pesos percentuais:
 
+***Questões de teste para certificação:*** [MongoDB Associate Developer](https://learn.mongodb.com/courses/associate-developer-node-practice-questions) (Algumas questões são exclusivas da versão)
+
 ### 1. MongoDB Overview and The Document Model (8%)
 *📚 **Material de Estudo:** [MongoDB Overview](../../badges/overview/README.md)*
 * Diferenciar tipos suportados pelo BSON.
