@@ -21,14 +21,16 @@ A certificação **MongoDB Associate Developer** comprova que você domina as ha
 A prova possui **53 questões** (algumas de múltipla escolha simples, outras com múltiplas respostas corretas). Destas, algumas perguntas servem apenas como "testes de campo" não pontuados para futuras provas, porém você não saberá quais são elas. A prova é baseada no uso prático do dia a dia, distribuída com os seguintes pesos percentuais:
 
 ### 1. MongoDB Overview and The Document Model (8%)
+*📚 **Material de Estudo:** [MongoDB Overview](../../badges/overview/README.md)*
 * Diferenciar tipos suportados pelo BSON.
 * Identificar como documentos de formatos totalmente diferentes (Polimorfismo/Flexibilidade) podem coexistir na mesma coleção de banco de dados.
 
 ### 2. Operações CRUD (51%) - *[O Coração da Prova]*
+*📚 **Materiais de Estudo:** [MongoDB CRUD Operations](../05-crud-nodejs/readme.md) | [MongoDB Aggregation](../07-aggregation/readme.md)*
 * Identificar comandos de `$insert` corretos e incorretos.
 * Executar updates complexos (com e sem operadores como `$set`).
 * Atualizações condicionais avançadas (`upsert: true`).
-* Saber identificar saídas de alterações concorrentes via `findAndModify`.
+* Saber identificar saídas de alterações concorrentes via `findAndModify` (Transações).
 * Uso massivo de filtros: igualdade simples em arrays, operadores relacionais (`$gt`, `$lt`), lógicos (`$and`, `$or`), operador especializado `$in` e o importantíssimo `$elemMatch`.
 * Configuração e efeitos de paginação via Query Cursor com `.sort()` e `.limit()`.
 * Projeções (identificar projeções inválidas que tentam incluir e excluir campos ao mesmo tempo, exceto `_id`).
@@ -36,6 +38,7 @@ A prova possui **53 questões** (algumas de múltipla escolha simples, outras co
 * Conceitos de Atlas Search.
 
 ### 3. Índices (17%)
+*📚 **Material de Estudo:** [MongoDB Indexes](../06-indexes/readme.md)*
 * Saber qual índice criaria impacto num `Collection Scan` e o melhoraria.
 * Uso de Índices Simples, Compostos e Multikey (Arrays).
 * Saber contar índices e entender Trade-offs (Criar muitos índices deixa a escrita lenta, deletá-los destrói a performance das buscas).
@@ -49,6 +52,7 @@ A prova possui **53 questões** (algumas de múltipla escolha simples, outras co
 * Interação de interface via Atlas Data Explorer (ex: uso do Sample Dataset nativo).
 
 ### 6. MongoDB Drivers - Específico para Node.js (18%)
+*📚 **Materiais de Estudo:** [Operações Node.js Driver](../05-crud-nodejs/readme.md) | [Node.js Aggregation Pipelines](../08-aggregation-nodejs/readme.md)*
 *Atenção: Embora seja a prova Associate genérica, este domínio testará sintaxe de Javascript/Node.js, já que essa foi a linguagem que você escolheu no momento do registro.*
 * Como instanciar o driver (o que é o Driver Node.js).
 * Componentes de uma String URI de conexão (Formato de DNS SRV).
