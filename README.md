@@ -1,19 +1,39 @@
 # MongoDB Skills
 
-Este repositório é dedicado aos exercícios práticos e notas de estudo para a certificação **MongoDB Associate Developer**. Este material não contém apenas um curso, mas servirá de portefólio para toda a jornada de aprendizagem. 
+Este repositório é dedicado aos exercícios práticos e notas de estudo para a certificação **MongoDB Associate Developer**. Este material não contém apenas um curso, mas atua como um guia rápido, pragmático e como ferramenta de reflexão para toda a jornada de aprendizagem técnica.
 
-Aqui vais encontrar a documentação e os laboratórios de diversos cursos da MongoDB University, organizados por módulos. Cada curso explora uma faceta diferente do motor da base de dados.
-
-## 🎯 Cursos e Módulos (Sumário)
-
-Abaixo está o sumário de todas as capacitações (concluídas e planeadas). Clica no link do módulo desejado para acederes à respetiva pasta, laboratórios, código detalhado e teoria profunda.
-
-* 📖 [**1. MongoDB Overview**](./overview/) - Princípios fundamentais de bases de dados Orientadas a Documentos, Clusters, Replica Sets e laboratório de Aggregation Framework (Single View).
-* ⏳ **2. CRUD Operations** *(Por Iniciar)* - Inserção, pesquisa, atualização e remoção avançada de documentos.
-* ⏳ **3. Indexes and Performance** *(Por Iniciar)* - Otimização de consultas, planeamento de queries e tipos de índices.
-* ⏳ **4. Data Modeling** *(Por Iniciar)* - Padrões de modelagem, relações inter-documentais e estratégias eficientes de esquemas (JSON Schema validation).
-* ⏳ **5. Transactions and Concurrency** *(Por Iniciar)* - Garantias ACID no MongoDB e comportamento multi-documento de alta fiabilidade.
+Abaixo está o **Sumário Principal** estruturado de forma hierárquica, garantindo fácil acesso a todos os módulos e seus respectivos laboratórios já documentados.
 
 ---
 
-O objetivo deste repositório é que no final do trajeto perante os laboratórios oficiais, o mesmo atue como um guia rápido, pragmático e como ferramenta de reflexão para o exame técnico da certificação profissional.
+## 📖 Sumário Principal (Módulos e Labs)
+
+### 📘 [1. MongoDB Overview](./overview/README.md)
+Princípios fundamentais de bases de dados Orientadas a Documentos, Clusters e Replica Sets.
+* 🧪 [Lab: Aggregation Framework (Single View)](./overview/src/updateProducts.js)
+
+### 📘 [2. MongoDB and the Document Model](./document-model/readme.md)
+Estrutura de documentos, schema flexível e tipos de dados BSON.
+* 🧪 [Lab: Managing Databases and Collections (Atlas UI)](./document-model/managing-databases/lab/readme.md)
+* 📑 [Topic: Data Relationships (Embedding vs Referencing)](./document-model/data-relationships/readme.md)
+* 📑 [Topic: Data Types (BSON)](./document-model/data-types/readme.md)
+
+### 📘 [3. Connecting Using MongoDB Shell](./mongodb-shell/readme.md)
+Uso da Connection String, operações interativas e scripts no terminal `mongosh`.
+* 🧪 [Lab: Install and Connect mongosh](./mongodb-shell/lab/readme.md)
+* 🧪 [Lab: Troubleshoot Network Access Errors](./mongodb-shell/troubleshooting-lab/readme.md)
+* 🧪 [Lab: Using the MongoDB Shell (Insert/Find)](./mongodb-shell/using-mongosh-lab/readme.md)
+* 🧪 [Lab: Run JS Functions and External Scripts](./mongodb-shell/js-scripts-lab/readme.md)
+* 🧪 [Lab: Edit Commands in the MongoDB Shell](./mongodb-shell/edit-commands-lab/readme.md)
+
+### 📘 [4. Connecting to MongoDB in Node.js](./connecting-nodejs/readme.md)
+Inicializando a conexão programática assíncrona utilizando o MongoDB Node.js Driver.
+* 🧪 [Lab: Connecting to an Atlas Cluster in Node.js](./connecting-nodejs/lab/readme.md)
+
+### 📘 [5. MongoDB CRUD Operations](./crud-operations/readme.md)
+Operações fundamentais de manipulação e resgate de dados em coleções (Create e Read em andamento).
+* 🧪 [Lab: Inserting Documents (`insertOne`)](./crud-operations/insert-lab/readme.md)
+* 🧪 [Lab: Inserting Multiple Documents (`insertMany`)](./crud-operations/insert-many-lab/readme.md)
+* 🧪 [Lab: Finding Documents (Equality, `$in`, `$gt`, `$lt`)](./crud-operations/find-lab/readme.md)
+* 🧪 [Lab: Querying Array Elements (`$elemMatch`) e Quizzes](./crud-operations/array-queries-lab/readme.md)
+* 🧪 [Lab: Logical Operators (`$and`, `$or`)](./crud-operations/logical-operators-lab/readme.md)

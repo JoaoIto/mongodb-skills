@@ -1,0 +1,12 @@
+{
+  "name": "lab-managing-databases",
+  "version": "1.0.0",
+  "description": "Lab: Managing Databases, Collections, and Documents in Atlas",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "mongodb": "^6.6.2"
+  }
+}
