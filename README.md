@@ -47,6 +47,9 @@ Integração de operações CRUD programáticas usando o MongoDB Node.js Driver.
 * 🧪 [Lab: Deleting Documents in Node.js](./nodejs-developer-path/05-crud-nodejs/delete-lab/readme.md)
 * 🧪 [Lab Especial: MongoDB Transactions in Node.js](./nodejs-developer-path/05-crud-nodejs/transaction-lab/readme.md)
 
+#### 📘 [6. MongoDB Indexes](./nodejs-developer-path/06-indexes/readme.md)
+Estruturas de dados para aprimoramento de consultas (Single Field, Unique e métricas de query via Explain).
+
 ---
 
 ### 🎖️ MongoDB Badges & Extras
