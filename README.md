@@ -56,6 +56,12 @@ Framework poderoso de processamento em lote e sumarização de dados usando pipe
 #### 📘 [8. MongoDB Aggregation with Node.js](./nodejs-developer-path/08-aggregation-nodejs/readme.md)
 Integração e execução prática de Aggregation Pipelines em aplicações Node.js utilizando o driver nativo do MongoDB.
 
+#### 📘 [9. MongoDB Transactions (ACID)](./nodejs-developer-path/09-transactions/readme.md)
+Uso de Sessões e transações multi-documento para garantir Atomicidade, Consistência, Isolamento e Durabilidade.
+
+#### 📘 [10. Introduction to Atlas Search](./nodejs-developer-path/10-atlas-search/readme.md)
+Configuração de índices de busca (Full-Text Search), mapeamentos estáticos/dinâmicos e queries avançadas de texto.
+
 ---
 
 ### 🎖️ MongoDB Badges & Extras
