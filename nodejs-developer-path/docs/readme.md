@@ -64,6 +64,27 @@ A prova possui **53 questões** (algumas de múltipla escolha simples, outras co
 
 ---
 
+## ⚠️ Cheat Sheet: Pegadinhas de Sintaxe do Exame
+
+A prova testará pequenos detalhes na sintaxe MQL e no Node.js. Memorize estes padrões para não cair nas pegadinhas:
+
+* **`$push` vs `$addToSet`**:
+  * `$push`: Adiciona no array **cegamente**, gerando dados duplicados.
+  * `$addToSet`: Só adiciona se o item não existir (exclusividade). Ideal para listas de e-mails ou tags.
+* **Ordem do `$match` na Agregação**:
+  * No início: Usa os índices nativos do banco (IXSCAN) e diminui muito a carga que vai para os próximos estágios. Altamente performático.
+  * No fim (depois do `$group`): Não usa índices. O filtro ocorre após os dados já estarem na memória. Muito mais lento.
+* **`$set` vs `$project`**:
+  * `$set` (ou `$addFields`): Adiciona apenas novos campos e mantém o resto do documento intocado.
+  * `$project`: Restringe estritamente o retorno. Se você não der `"1"` em um campo, ele some do resultado (exceção: `_id`).
+* **`$set` vs `$inc`**:
+  * `$set`: Atribui um novo valor sobrescrevendo o antigo (ex: `carrinho = 2`).
+  * `$inc`: Soma ou subtrai matematicamente do valor atual (ex: `carrinho = carrinho + 2`). Perfeito para contadores.
+* **`upsert: true`**:
+  * Atualiza o documento se o filtro encontrar algo. Se não encontrar, ele **Cria** um documento novo fundindo os campos usados no *filter* e no *update*.
+
+---
+
 ## 🛠️ O Dia da Prova: Regras e Proctoring Online
 
 Você fará a prova do conforto de casa utilizando a plataforma **ProctorU**. Para que não perca o investimento e seja desqualificado, siga à risca estas diretrizes de *Online Proctoring*:

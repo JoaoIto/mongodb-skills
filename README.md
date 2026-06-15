@@ -94,11 +94,23 @@ Configuração de índices de busca (Full-Text Search), mapeamentos estáticos/d
 
 ---
 
+### 🎯 Projetos Práticos e Preparação para Certificação
+Módulos isolados fora do escopo inicial da trilha, focados em cenários avançados para o exame **Associate Developer**.
+
+#### 🧪 [1. Otimização de Performance (Regra ESR)](./certification-prep-projects/01-esr-rule-lab/readme.md)
+Guia definitivo para evitar bloqueios de memória (*In-memory sorts*) em agregações usando Equality, Sort e Range.
+* Scripts práticos analisando saídas com `.explain("executionStats")`.
+
+#### 🧪 [2. Cenário Real: BillLens (Transações ACID)](./certification-prep-projects/02-transactions-billlens/readme.md)
+Simulação real de fluxos financeiros, controlando saldos e garantindo Rollbacks usando a `Callback API` (`session.withTransaction`).
+
+---
+
 ### 🎖️ MongoDB Badges & Extras
 Módulos independentes, guias e laboratórios que conferem badges específicos.
 
 * 📜 **[Guia Oficial de Certificação MongoDB (Associate Developer)](./nodejs-developer-path/docs/readme.md)**
-  * Detalhes sobre os pré-requisitos, pesos de cada tema na prova (CRUD, Indexes, Node.js Driver), regras de realização do exame e o que esperar no dia da prova!
+  * Análise do Edital, Cheat Sheet de Pegadinhas (Gotchas) e pesos das questões.
 
 #### 📘 [MongoDB Overview](./badges/overview/README.md)
 Princípios fundamentais de bases de dados Orientadas a Documentos, Clusters e Replica Sets.
