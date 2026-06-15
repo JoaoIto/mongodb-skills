@@ -31,9 +31,10 @@ Inicializando a conexão programática assíncrona utilizando o MongoDB Node.js 
 * 🧪 [Lab: Connecting to an Atlas Cluster in Node.js](./connecting-nodejs/lab/readme.md)
 
 ### 📘 [5. MongoDB CRUD Operations](./crud-operations/readme.md)
-Operações fundamentais de manipulação e resgate de dados em coleções (Create e Read em andamento).
+Operações fundamentais de manipulação e resgate de dados em coleções (Create, Read, Update/Replace, Delete).
 * 🧪 [Lab: Inserting Documents (`insertOne`)](./crud-operations/insert-lab/readme.md)
 * 🧪 [Lab: Inserting Multiple Documents (`insertMany`)](./crud-operations/insert-many-lab/readme.md)
 * 🧪 [Lab: Finding Documents (Equality, `$in`, `$gt`, `$lt`)](./crud-operations/find-lab/readme.md)
 * 🧪 [Lab: Querying Array Elements (`$elemMatch`) e Quizzes](./crud-operations/array-queries-lab/readme.md)
 * 🧪 [Lab: Logical Operators (`$and`, `$or`)](./crud-operations/logical-operators-lab/readme.md)
+* 🧪 [Lab: Replace and Delete Documents](./crud-operations/replace-delete/readme.md)

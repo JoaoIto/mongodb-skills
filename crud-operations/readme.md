@@ -65,6 +65,7 @@ db.grades.insertMany([
 * **[Lab: Finding Documents in a MongoDB Collection](./find-lab/readme.md)**: Exercício ensinando como buscar documentos de forma exata (`findOne`) e utilizando operadores numéricos.
 * **[Lab: Querying Array Elements (`$elemMatch`)](./array-queries-lab/readme.md)**: Teoria, código prático e quizzes de como buscar itens básicos ou objetos complexos associados dentro de arrays.
 * **[Lab: Finding Documents by Using Logical Operators](./logical-operators-lab/readme.md)**: Aplicação de `$and` implícito, `$or`, e o uso explícito de `$and` na intersecção de expressões complexas.
+* **[Lab: Replace and Delete Documents](./replace-delete/readme.md)**: Teoria, código prático e quizzes sobre como substituir documentos usando `replaceOne()`.
 
 ---
 
