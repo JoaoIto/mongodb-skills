@@ -1,38 +1,59 @@
-# MongoDB Skills
-
-Este repositório é dedicado aos exercícios práticos e notas de estudo para a trilha **MongoDB Node.js Developer Path** e outras certificações/badges oficiais da MongoDB. Este material não contém apenas um curso, mas atua como um guia rápido, pragmático e como ferramenta de reflexão para toda a jornada de aprendizagem técnica.
-
----
-
-## 🏆 Minhas Conquistas (Badges & Certificações)
-
-Abaixo estão as credenciais e trilhas que conquistei/concluí através da plataforma oficial MongoDB:
-
-<div style="display: flex; gap: 20px; flex-wrap: wrap; margin-bottom: 20px;">
-  <!-- Badge: MongoDB Overview -->
-  <a href="#" target="_blank">
-    <img src="https://images.credly.com/size/340x340/images/0b4c54ef-b1d8-4aa7-a658-230b74dec7f6/blob" width="160" alt="MongoDB Overview Badge" />
-  </a>
-  <!-- Badge: Relational to Document Model -->
-  <a href="#" target="_blank">
-    <img src="https://images.credly.com/size/340x340/images/234edfc5-0177-46e7-a61a-071f060af2f6/blob" width="160" alt="Relational to Document Model Badge" />
-  </a>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" width="120" alt="MongoDB Logo" />
+  <h1>MongoDB Skills & Certification Path</h1>
+  <p>
+    Repositório dedicado aos exercícios práticos, laboratórios e notas de estudo para a trilha <strong>MongoDB Node.js Developer Path</strong> e preparação para a certificação oficial <strong>MongoDB Associate Developer</strong>.
+  </p>
 </div>
 
-**🎯 Grande Objetivo de Estudo:**
-<br/>
-<img src="https://d36ai2hkxl16us.cloudfront.net/course-uploads/7985c085-3b6a-42d5-b668-e41cb6eedeb0/4gnbpsehb9ih-credlybadge-associatedeveloper2.png" width="160" alt="MongoDB Associate Developer Badge" />
-<br/><br/>
-
-**🎓 Learning Path Finalizado:**
-<br/>
-<a href="https://learn.mongodb.com/learn/learning-path/mongodb-nodejs-developer-path" target="_blank">
-  <img src="https://d36ai2hkxl16us.cloudfront.net/thoughtindustries/image/upload/a_exif,c_fill,w_750,h_361/v1/course-uploads/ae62dcd7-abdc-4e90-a570-83eccba49043/61tq2sbjaux6-Node_LP_Catalog1.png" width="300" alt="MongoDB Node.js Developer Path" />
-</a>
-
 ---
 
-Abaixo está o **Sumário Principal** estruturado de forma hierárquica, separando a trilha principal de Node.js dos badges e módulos adicionais.
+## 🏆 Minhas Conquistas Oficiais (Badges & Certificações)
+
+As credenciais abaixo são emitidas oficialmente pela **MongoDB** (via Credly) e atestam a proficiência no ecossistema e no modelo de documentos.
+
+<div align="center">
+  <table style="text-align: center; border-collapse: collapse; border: none;">
+    <tr>
+      <td align="center" width="250" style="border: none;">
+        <a href="https://www.credly.com/" target="_blank">
+          <img src="https://images.credly.com/size/340x340/images/0b4c54ef-b1d8-4aa7-a658-230b74dec7f6/image.png" width="140" alt="MongoDB Overview Badge" />
+        </a>
+        <br /><br />
+        <b>MongoDB Overview</b>
+      </td>
+      <td align="center" width="250" style="border: none;">
+        <a href="https://www.credly.com/" target="_blank">
+          <img src="https://images.credly.com/size/340x340/images/234edfc5-0177-46e7-a61a-071f060af2f6/image.png" width="140" alt="Relational to Document Model Badge" />
+        </a>
+        <br /><br />
+        <b>Relational to Document Model</b>
+      </td>
+      <td align="center" width="250" style="border: none;">
+        <a href="https://learn.mongodb.com/pages/mongodb-associate-developer-exam" target="_blank">
+          <img src="https://d36ai2hkxl16us.cloudfront.net/course-uploads/7985c085-3b6a-42d5-b668-e41cb6eedeb0/4gnbpsehb9ih-credlybadge-associatedeveloper2.png" width="140" alt="MongoDB Associate Developer Badge" />
+        </a>
+        <br /><br />
+        <b>Associate Developer</b><br/>
+        <i>(Meta de Certificação)</i>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<br/>
+
+### 🎓 Learning Path Finalizado: Node.js Developer
+
+Comprovante oficial de conclusão da trilha de desenvolvimento Node.js da **MongoDB University**.
+
+<div align="center">
+  <a href="https://github.com/JoaoIto/mongodb-skills/blob/main/nodejs-developer-path/docs/MongoDB%20Node.js%20Developer%20Path.pdf" target="_blank">
+    <img src="https://raw.githubusercontent.com/JoaoIto/mongodb-skills/main/nodejs-developer-path/docs/mongo-developer-nodejs.jpeg" width="700" alt="Certificado de Conclusão - MongoDB Node.js Developer Path" />
+  </a>
+  <br/><br/>
+  <i>Clique na imagem do certificado acima para visualizar ou baixar o PDF original em alta qualidade.</i>
+</div>
 
 ---
 
