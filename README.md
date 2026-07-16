@@ -1,6 +1,11 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" width="120" alt="MongoDB Logo" />
-  <h1>MongoDB Skills & Certification Path</h1>
+
+  # MongoDB Skills & Certification Path
+
+  ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+  ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+  ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+
   <p>
     Repositório dedicado aos exercícios práticos, laboratórios e notas de estudo para a trilha <strong>MongoDB Node.js Developer Path</strong> e preparação para a certificação oficial <strong>MongoDB Associate Developer</strong>.
   </p>
@@ -17,14 +22,14 @@ As credenciais abaixo são emitidas oficialmente pela **MongoDB** (via Credly) e
     <tr>
       <td align="center" width="250" style="border: none;">
         <a href="https://www.credly.com/" target="_blank">
-          <img src="https://images.credly.com/size/340x340/images/0b4c54ef-b1d8-4aa7-a658-230b74dec7f6/image.png" width="140" alt="MongoDB Overview Badge" />
+          <img src="https://images.credly.com/size/340x340/images/0b4c54ef-b1d8-4aa7-a658-230b74dec7f6/blob" width="140" alt="MongoDB Overview Badge" />
         </a>
         <br /><br />
         <b>MongoDB Overview</b>
       </td>
       <td align="center" width="250" style="border: none;">
         <a href="https://www.credly.com/" target="_blank">
-          <img src="https://images.credly.com/size/340x340/images/234edfc5-0177-46e7-a61a-071f060af2f6/image.png" width="140" alt="Relational to Document Model Badge" />
+          <img src="https://images.credly.com/size/340x340/images/234edfc5-0177-46e7-a61a-071f060af2f6/blob" width="140" alt="Relational to Document Model Badge" />
         </a>
         <br /><br />
         <b>Relational to Document Model</b>
